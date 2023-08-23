@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/31463-8-science-photos-thumb.png
+cover: .gitbook/assets/31463-8-science-photos-thumb (2).png
 coverY: 0
 layout:
   cover:
