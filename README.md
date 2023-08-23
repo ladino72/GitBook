@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/31463-8-science-photos-thumb (2).png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
