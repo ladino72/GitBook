@@ -13,3 +13,7 @@
 * [Mecánica](programacion/mecanica.md)
 * [Electromagnetismo](programacion/electromagnetismo.md)
 * [Moderna](programacion/moderna.md)
+
+## ENLACES DE ACCESO DIRECTO A RECURSOS DE FÍSICA PARA DESCARGAR
+
+* [Enlaces](enlaces-de-acceso-directo-a-recursos-de-fisica-para-descargar/enlaces.md)
