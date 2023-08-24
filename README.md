@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/31203-2-science-picture.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
