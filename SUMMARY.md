@@ -14,6 +14,6 @@
 * [Electromagnetismo](programacion/electromagnetismo.md)
 * [Moderna](programacion/moderna.md)
 
-## ENLACES DE ACCESO DIRECTO A RECURSOS DE FÍSICA PARA DESCARGAR
+## ENLACES DE ACCESO DIRECTO A RECURSOS
 
-* [Enlaces](enlaces-de-acceso-directo-a-recursos-de-fisica-para-descargar/enlaces.md)
+* [Enlaces](enlaces-de-acceso-directo-a-recursos/enlaces.md)
