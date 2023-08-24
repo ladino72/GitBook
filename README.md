@@ -1,5 +1,10 @@
 ---
+cover: .gitbook/assets/31203-2-science-picture.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -14,28 +19,30 @@ layout:
 
 # INTRODUCCION
 
-Este sitio presenta un conjunto de actividades virtuales y reales (+) de laboratorio para los cursos básicos de fı́sica mecánica, electromagnetismo, calor, ondas y termodinámica. Para las actividades virtuales se utilizan simuladores on line. Existen autores que discuten las ventajas y desventajas de su uso en la enseñanza de una disciplina, pero en términos generales aconsejan el uso de estas herramientas cuando posibiliten visualizar aspectos de un fenómeno fı́sico que difı́cilmente se lograrı́a incluso con una experiencia real, fundamentalmente por los recursos que esto implicarı́a. Muchas de estas herramientas simulan fenómenos fı́sicos que permiten al usuario hacer cambios en las magnitudes del sistema y visualizar sus efectos de manera inmediata. Se deberı́a explotar el máximo estas posibilidades para predecir qué ocurrirá al hacer dichos cambios y explicar lo observado en términos de los conceptos fı́sicos involucrados.
+**Corregido:**
 
-Por otra parte, si el uso de estas herramientas no está acompañado por actividades de cuestionamiento, reflexión y explicación a partir de la teorı́a fı́sica, los resultados del proceso de aprendizaje no resultan ser favorecedores. Así mismo, se argumenta que los usos de simuladores podrı́an colaborar con el proceso de construcción de significados relacionados con la conceptualización del fenómeno.
+Este sitio presenta un conjunto de actividades virtuales y prácticas de laboratorio para los cursos básicos de física mecánica, electromagnetismo, calor, ondas y termodinámica. Para las actividades virtuales se utilizan simuladores en línea. Existen autores que discuten las ventajas y desventajas de su uso en la enseñanza de una disciplina, pero en términos generales aconsejan el uso de estas herramientas cuando posibiliten visualizar aspectos de un fenómeno físico que difícilmente se lograría incluso con una experiencia real, fundamentalmente por los recursos que esto implicaría. Muchas de estas herramientas simulan fenómenos físicos que permiten al usuario hacer cambios en las magnitudes del sistema y visualizar sus efectos de manera inmediata. Se debería explotar al máximo estas posibilidades para predecir qué ocurrirá al hacer dichos cambios y explicar lo observado en términos de los conceptos físicos involucrados.
 
-Teniendo en cuenta lo anterior el autor ha propuesto una serie de actividades en las que en su mayoría hacen uso de los recursos existentes en la red como son los simuladores gratuitos. También se proponen otras actividades en menor número que utilizan implementos de fácil consecución, disponibles usualmente en cualquier laboratorio destinado a la enseñanza de la física básica.
+Sin embargo, si el uso de estas herramientas no está acompañado por actividades de cuestionamiento y reflexión, los resultados del proceso de aprendizaje no resultan ser favorecedores. Los simuladores también pueden contribuir a la construcción de significados relacionados con la conceptualización del fenómeno.
 
-Las actividades propuestas tienen varias finalidades:
+Teniendo en cuenta lo anterior, se ha propuesto una serie de actividades que, en su mayoría, hacen uso de los recursos existentes en la red, como son los simuladores gratuitos. También se proponen otras actividades, en menor número, que utilizan implementos de fácil consecución, disponibles usualmente en cualquier laboratorio destinado a la enseñanza de la física básica.
 
-* Afianzar los conceptos fundamentales de la fı́sica básica.
+Las actividades propuestas tienen las siguientes finalidades:
+
+* Afianzar los conceptos fundamentales de la física básica.
 * Involucrar a cada estudiante en experiencias significativas donde ellos sean los protagonistas.
-* Contribuir al desarrollo de competencias cientı́ficas:
-  * Capacidad de utilizar el conocimiento cintífico para escribir, explicar y predecir fenómenos naturales.
+* Contribuir al desarrollo de competencias científicas:
+  * Capacidad de utilizar el conocimiento científico para escribir, explicar y predecir fenómenos naturales.
   * Capacidad de utilizar los conceptos y modelos científicos para analizar problemas:
     * Manejo de modelos y técnicas para determinar relaciones entre las diferentes variables que gobiernan un determinado fenómeno.
-  * Capacidad de pocesar la información obtenida.
+  * Capacidad de procesar la información obtenida:
     * Manejo de información, sus diferentes formas de representación y el uso de diferentes herramientas tecnológicas.
   * Capacidad de formular conclusiones fundamentadas:
     * Reconocimiento de las limitaciones de los modelos y la aplicación de la teoría de errores.
     * Argumentación verbal y escrita fundamentada en las ideas y modelos científicos.
-  * Capacidad de valorar la calidad de una información en función de los procedimientos utilizados para generarla.
+    * Capacidad de valorar la calidad de una información en función de los procedimientos utilizados para generarla.
 
-Las actividades propuestas se pueden utilizar para la construcción de un curso en si, o como material de apoyo en diferentes cursos de física. Es de vital importancia que el desarrollo de las actividades estén siempre bajo la orientación y apoyo del docente.
+Las actividades propuestas se utilizan como material de apoyo a los diferentes cursos de física. Son un recurso valioso para que los estudiantes puedan aprender de manera activa y participativa. Sin embargo, es de vital importancia que el desarrollo de las actividades estén siempre bajo la orientación y apoyo del docente.
 
 
 
