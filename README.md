@@ -1,18 +1,4 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
-# INTRODUCCION
+# Introducción
 
 Este sitio presenta un conjunto de actividades virtuales y prácticas de laboratorio para los cursos básicos de física mecánica, electromagnetismo, calor, ondas y termodinámica. Para las actividades virtuales se utilizan simuladores en línea. Existen autores que discuten las ventajas y desventajas de su uso en la enseñanza de una disciplina, pero en términos generales aconsejan el uso de estas herramientas cuando posibiliten visualizar aspectos de un fenómeno físico que difícilmente se lograría incluso con una experiencia real, fundamentalmente por los recursos que esto implicaría. Muchas de estas herramientas simulan fenómenos físicos que permiten al usuario hacer cambios en las magnitudes del sistema y visualizar sus efectos de manera inmediata. Se debería explotar al máximo estas posibilidades para predecir qué ocurrirá al hacer dichos cambios y explicar lo observado en términos de los conceptos físicos involucrados.
 

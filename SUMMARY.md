@@ -1,6 +1,6 @@
 # Table of contents
 
-* [INTRODUCCION](README.md)
+* [Introducción](README.md)
 
 ## Actividades por tema
 
