@@ -8,11 +8,11 @@
 * [Electromagnetismo](actividades-por-tema/electromagnetismo.md)
 * [Moderna](actividades-por-tema/moderna.md)
 
-## PROGRAMACION
+## PROGRAMACION LABORATORIOS
 
-* [Mecánica](programacion/mecanica.md)
-* [Electromagnetismo](programacion/electromagnetismo.md)
-* [Moderna](programacion/moderna.md)
+* [Mecánica](programacion-laboratorios/mecanica.md)
+* [Electromagnetismo](programacion-laboratorios/electromagnetismo.md)
+* [Moderna](programacion-laboratorios/moderna.md)
 
 ## ENLACES DE ACCESO DIRECTO A RECURSOS
 
