@@ -22,7 +22,7 @@
       <td align="center">2</td>
       <td>27 ene - 1 feb</td>
       <td></td>
-      <td>Teoría de errores</td>
+      <td><a href="https://lalgfisica.readthedocs.io/es/latest/Mechanics/005_Errors.html">Teoría de errores</a></td>
     </tr>
     <tr>
       <td align="center">3</td>
@@ -46,7 +46,7 @@
       <td align="center">6</td>
       <td>24 feb - 1 mar</td>
       <td>Uso de Software Vernier (interface)</td>
-      <td>Aceleración de la gravedad</td>
+      <td><a href="https://lalgfisica.readthedocs.io/es/latest/Mechanics/010_Gravity.html">Aceleración de la gravedad</a></td>
     </tr>
     <tr>
       <td align="center">7</td>
@@ -58,13 +58,13 @@
       <td align="center">8</td>
       <td>10 mar - 15 mar</td>
       <td>Usando riel, carro y software Vernier</td>
-      <td>Segunda ley de Newton</td>
+      <td><a href="https://lalgfisica.readthedocs.io/es/latest/Mechanics/075_NewtonC.html">Segunda ley de Newton</a></td>
     </tr>
     <tr>
       <td align="center">9</td>
       <td>17 mar - 22 mar</td>
       <td>Riel y bloques de madera</td>
-      <td>Coeficiente de rozamiento dinámico</td>
+      <td><a href="https://lalgfisica.readthedocs.io/es/latest/Mechanics/090_Coeficiente_Rozamiento_Cinematico.html">Coeficiente de rozamiento dinámico</a></td>
     </tr>
     <tr>
       <td align="center">10</td>
@@ -82,7 +82,7 @@
       <td align="center">12</td>
       <td>7 abr - 12 abr</td>
       <td>Usando fotoceldas y el péndulo</td>
-      <td>Conservación de la energía mecánica</td>
+      <td><a href="https://lalgfisica.readthedocs.io/es/latest/Mechanics/115_Energy_Conservation.html">Conservación de la energía mecánica</a></td>
     </tr>
     <tr>
       <td align="center">13</td>
@@ -94,13 +94,13 @@
       <td align="center">14</td>
       <td>21 abr - 26 abr</td>
       <td>Plano inclinado</td>
-      <td>Momento de inercia y energía cinética rotacional</td>
+      <td><a href="https://lalgfisica.readthedocs.io/es/latest/Mechanics/140_Rotational_Energy.html">Momento de inercia y energía cinética rotacional</a></td>
     </tr>
     <tr>
       <td align="center">15</td>
       <td>28 abr - 3 may</td>
       <td>Densidad de un líquido</td>
-      <td>Principio de Arquímedes</td>
+      <td><a href="https://lalgfisica.readthedocs.io/es/latest/Mechanics/150_Arquimedes.html">Principio de Arquímedes</a></td>
     </tr>
     <tr>
       <td align="center">16</td>
