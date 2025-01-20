@@ -32,7 +32,7 @@
       <td align="center">4</td>
       <td>10 feb - 15 feb</td>
       <td></td>
-      <td>Electrodos puntiagudos. Máquina de Wimshurst</td>
+      <td><a>"https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/020_Coulomb_Law.html"</a> Ley de Coulomb</td>
     </tr>
     <tr>
       <td align="center">5</td>
@@ -50,7 +50,7 @@
       <td align="center">7</td>
       <td>3 mar - 8 mar</td>
       <td></td>
-      <td><a href="https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/065_Equipotentials.html">Campos eléctricos y líneas equipotenciales</a></td>
+      <td><a href="https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/065_Equipotentials.html">Campo eléctrico y líneas equipotenciales</a></td>
     </tr>
     <tr>
       <td align="center">8</td>
