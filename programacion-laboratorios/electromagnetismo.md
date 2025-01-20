@@ -31,7 +31,7 @@
     <tr>
       <td align="center">4</td>
       <td>10 feb - 15 feb</td>
-      <td></td>
+      <td>Simulación: Instalada en computadores</td>
       <td><a href="https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/020_Coulomb_Law.html"</a> Ley de Coulomb</td>
     </tr>
     <tr>
